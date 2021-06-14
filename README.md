@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Asirimihindu
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ...C# ,Javascript & PHP 
+- 👀 I’m interested in ... Web development & data analysis 
+- 🌱 I’m currently learning ...python,C# ,Javascript & PHP 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...asirimihindu@gmail.com 
 
 <!---
 Asirimihindu/Asirimihindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
