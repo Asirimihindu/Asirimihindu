@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asirimihindu
-- 👀 I’m interested in ... Web development & data analysis 
+- 👀 I’m interested in ... Web development & Data analysis 
 - 🌱 I’m currently learning ...python,C# ,Javascript & PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...asirimihindu@gmail.com 
