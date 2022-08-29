@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asirimihindu
 - 👀 I’m interested in ... Web development & Data analysis 
-- 🌱 I’m currently learning ...Machine Learning, python, JavaScript, HTML, CSS & PHP 
+- 🌱 I’m currently learning ...Machine Learning, Python, JavaScript, HTML, CSS & PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...asirimihindu@gmail.com 
 
